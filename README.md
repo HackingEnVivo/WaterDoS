@@ -1,12 +1,12 @@
 # WaterDoS
 Hacer ataques DoS
-<img src="http://i.imgur.com/uNjpkcO.png" title="WaterDoS">
+<img src="https://i.imgur.com/N1FiRyh.png" title="WaterDoS">
 
 # Bienvenid@s
 
 WaterDoS, para Hacktivistas
 
-[Visita mi Fanpage] (https://www.facebook.com/HackingEnVivo/)
+[Visita nuestra Fanpage] (https://www.facebook.com/HackingEnVivo/)
 
 # Requisitos:
 
